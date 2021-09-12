@@ -10,16 +10,11 @@ https://github.com/massgravel/Microsoft-Activation-Scripts/issues/20
    A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods 
    with a focus on open-source code, less antivirus detection and user-friendliness.
 
-   **Homepages:**<br/>
-   NsaneForums: (Login Required) https://www.nsaneforums.com/topic/316668-microsoft-activation-scripts/<br/>
-   GitLab: https://gitlab.com/massgrave/microsoft-activation-scripts<br/>
-   GitHub: https://github.com/massgravel/Microsoft-Activation-Scripts/<br/>
-   
    Latest Version: 1.4<br/>
    Release date: 14-aug-2020<br/>
 
    **Downloads:** <br/>
-   https://github.com/massgravel/Microsoft-Activation-Scripts/releases
+   https://github.com/tr-tech-guide/Microsoft-Activation-Scripts
 
 <br/> 
 
